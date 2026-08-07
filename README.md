@@ -97,6 +97,11 @@ You can download the compiled Android APK directly onto your device:
 
 **Ishtiak Mahmood** — [@ishtiak47](https://github.com/ishtiak47) • [ishtiak47.me](https://www.ishtiak47.me)
 
+
+## 👨‍💻 Tester and debugger
+
+**MD. Saimum Siddiki Eashan** — [@mdsse80](https://github.com/mdsse80) 
+
 ---
 
 ## 📄 License
