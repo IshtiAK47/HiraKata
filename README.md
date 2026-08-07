@@ -9,7 +9,7 @@
   [![Flutter](https://img.shields.io/badge/Flutter-3.44.9-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
   [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
   [![Release](https://img.shields.io/badge/Release-v1.0.0-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IshtiAK47/HiraKata/releases/tag/1.0.0)
-  [![License](https://img.shields.io/badge/License-MIT-green.style=for-the-badge)](LICENSE)
+  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
   <br />
 
