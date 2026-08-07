@@ -93,13 +93,9 @@ You can download the compiled Android APK directly onto your device:
 
 ---
 
-## 👨‍💻 Developer & Credits
+## 👨‍💻 Author
 
-Crafted with care by **Ishtiak Mahmood**.
-
-- **GitHub Profile**: [@ishtiak47](https://github.com/ishtiak47)
-- **Portfolio Website**: [www.ishtiak47.me](https://www.ishtiak47.me)
-- **App Repository**: [github.com/IshtiAK47/HiraKata](https://github.com/IshtiAK47/HiraKata)
+**Ishtiak Mahmood** — [@ishtiak47](https://github.com/ishtiak47) • [ishtiak47.me](https://www.ishtiak47.me)
 
 ---
 
