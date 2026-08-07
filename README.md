@@ -15,13 +15,17 @@
 
   <a href="https://github.com/IshtiAK47/HiraKata/releases/download/1.0.0/app-release.apk">
     <img src="https://img.shields.io/badge/📥_Download_APK-v1.0.0-4CAF50?style=for-the-badge&logoColor=white&labelColor=2E7D32" alt="Download APK" height="48" />
-  </a>
+  </a><br/>(Direct)
+  <a href="[https://github.com/IshtiAK47/HiraKata/releases/download/1.0.0/app-release.apk](https://github.com/IshtiAK47/HiraKata/releases/tag/1.0.0)">
+    <img src="https://img.shields.io/badge/📥_Download_APK-v1.0.0-4CAF50?style=for-the-badge&logoColor=white&labelColor=2E7D32" alt="Download APK" height="48" />
+  </a>(If Direct doesnt work)
 
   <br /><br />
 
   [Latest Release Notes](https://github.com/IshtiAK47/HiraKata/releases/tag/1.0.0) • [Report Issue](https://github.com/IshtiAK47/HiraKata/issues) • [Developer Profile](https://www.ishtiak47.me)
 
 </div>
+
 
 ---
 
